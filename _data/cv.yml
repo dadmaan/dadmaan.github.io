@@ -2,96 +2,158 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Shayan Dadman
     - name: Date of Birth
-      value: 14th March 1879
+      value: 9th March
     - name: Languages
-      value: English, German
+      value: English, Norwegian, Farsi
 
+# EDUCATION
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD Candidate
+      institution: UiT The Arctic University of Norway, Narvik, Norway
+      year: July 2021 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - My PhD research explores the intersection of multi-agent systems and reinforcement learning in the context of symbolic music generation. The primary goal is to design a collaborative learning environment facilitated through a user-centric interface. This project strives to enable artificial intelligence systems to understand better and adapt to individual user preferences. It's an experience towards harmonizing technology with human insight where AI can create personalized and interesting musical compositions.
+            
+    - title: M.S Computer Science 
+      institution: UiT The Arctic University of Norway, Narvik, Norway
+      year: Aug 2018 - June 2020
       description:
-        - Description 1.
-        - Description 2.
+        - During this study, I cultivated a robust foundation in technical programming and the development of advanced software and learning systems. I acquired skills in cutting-edge areas such as artificial intelligence, geometric modeling, virtual reality, and computer graphics, as well as in object-oriented in C++, Python, and GPU programming. 
+        - I benefitted from high-quality lab facilities and active AI and applied mathematics research groups, topping a comprehensive diploma thesis project. This rigorous academic preparation, grounded in theoretical knowledge and practical application, has equipped me to excel in technical and managerial roles in various technologically advanced industries and academic settings.
+    - title: Thesis Summary.
+      contents:
+        - In this work, I leveraged neural networks to address Music Information Retrieval (MIR) tasks and the algorithmic composition of music. The multifaceted project saw the development of a Python-based guitar tuner, utilizing time-frequency representation inputs processed through convolutional neural networks (CNNs) to identify chords accurately. I further harnessed the capabilities of CNNs and recurrent neural networks (RNNs) to undertake music classification tasks, distinguishing between different genres and instrument classifications. A notable achievement was designing an AI-driven system capable of composing structured Jazz music, drawing inspiration from natural language models, and utilizing a character-based approach.
 
+    - title: B.S Software Engineering
+      institution: Azad University of Tehran North, Tehran, Iran
+      year: Oct 2012 - May 2017
+      description:
+        - During my undergraduate studies in software engineering, I had the opportunity to explore a broad array of concepts and methodologies central to the field. I became acquainted with artificial intelligence and system logics, delving into different software methodologies that are pivotal in the industry today. 
+        - My coursework involved practical experience in programming languages like C# and C++, as well as working with Linux systems, which gave me a solid foundation in the technical aspects of software development. The program also included syudies such as state machines, automata, databases, interface design, statistical analysis, and mathematical engineering.
+        - This educational journey provided me with a solid grounding, preparing me for a diverse range of opportunities in the software engineering.
+    - title: Thesis Summary.
+      contents:
+        - During my bachelor thesis project, I focused on improving the user interactivity and convenience of e-commerce platforms. I delved deep into understanding and applying UID and UXD principles to cater to a wide range of users. My approach involved utilizing AppML to streamline the management of HTML data, effectively reducing code complexity by facilitating the transfer of data from .JSON files. Additionally, I employed Sass and Bootstrap API to enhance template efficiency. This project allowed me to integrate various tools and strategies, working towards a more user-friendly and efficient e-commerce platform.
+
+# EXPERIENCES
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistance and University Lecturer
+      institution: UiT The Arctic University of Norway, Narvik
+      year: July 2020 - July 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - As a research assistant, I had the opportunity to contribute to several important projects within the artificial intelligence group. I assisted in data analysis efforts, helping to develop forecasting models for the energy consumption and market production of solar panels in the context of the Smart Charge project. 
+        - I also played a role in creating zero-intelligence and reinforcement learning multi-agent systems for auction-based energy markets.
+        - As a lecturer, I had the opportunity to engage with students, facilitating workshops on machine learning and deep learning techniques and preparing and delivering lectures and tutorial modules.
+        - Beyond the classroom, I had the chance to organize enriching events such as guest lectures and seminars and to support master's students in their dissertation journey, offering guidance and supervision.
+
+    - title: Freelance Web designer and Developer
+      company: Self-Employed
+      place: Tehran, Iran
+      year: March 2016 - May 2019
       description:
-        - Description 1.
-        - Description 2.
+        - As a freelance web designer and developer, I had the opportunity to collaborate with various clients. I took part in every stage of development, from understanding client needs to delivering the final product. While focusing on creating user-friendly websites, I also gained practical experience in ensuring optimal site performance and SEO integration.
+        - This role allowed me to grow my understanding of client expectations and enhance my skills in autonomous project management.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: IT Specialist
+      institution: Adaak Financial Institute
+      place: Tehran, Iran
+      year: Apr 2017 - July 2018
       description:
+        - In this role, I was responsible for organizing and maintaining the company's local network. This position allowed me to deepen my understanding of network systems as I performed various essential tasks to ensure a smooth and secure operation. My daily tasks involved troubleshooting network issues, performing routine maintenance, and assisting in developing network solutions tailored to the company's needs.
+        - It was a valuable experience where I could apply my technical skills in a practical setting, contributing to the overall efficiency of the organization's IT infrastructure.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Network Consultant
+      institution: Talash Argham Institute
+      place: Tehran, Iran
+      year: Dec 2016 - March 2017
+      description:
+        - During a four-month period, I worked with Talash Argham Institute to assist in the organization and maintenance of their local network. My role involved analyzing the existing infrastructure, identifying areas for improvement, and implementing strategies to enhance network performance and security. While there, I worked collaboratively with the in-house team to develop solutions that aligned with the company's specific needs. 
+        - This short-term position allowed me to apply my expertise while adapting to a new organization's requirements and dynamics, creating a more efficient and secure network environment.
 
-- title: Open Source Projects
+    - title: Web Developer
+      institution: IT Orbit
+      place: Tehran, Iran
+      year: June 2016 - Dec 2016
+      description:
+        - During my internship at IT Orbit, I had the chance to support different web development projects. I assisted in various phases of development, learning from experienced professionals and getting acquainted with industry standards. 
+        - This role was a valuable stepping stone for me, offering a practical glimpse into the IT field and fostering a deeper understanding of web development.
+
+    - title: Design Team and Social Marketing Department Member
+      institution: Zed Trading Company
+      place: Tehran, Iran
+      year: Oct 2015 - Dec 2016
+      description:
+        - In my role at Zed Trading Company, I had the opportunity to work closely with the design team and members of the social marketing department, contributing to collaborative efforts to enhance the company's digital presence. I worked on multiple projects, including designing an e-commerce platform and a streamlined single-page website to enhance the user experience and drive business growth. Additionally, I familiarized myself with the Traccar tracking platform, assisting in the management of vehicle tracker modules to help improve operational efficiencies. 
+        - This role allowed me to learn and grow in a collaborative environment, nurturing both my teamwork skills and technical knowledge.
+
+- title: Presentations
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Oral presentation at PAAMS 2023 - Practical Application of Agent and Multi-Agents Systems, presenting multi-agent reinforcement learning for symbolic music generation.
+        - Poster presentation at CIRED 2023 - 27th International Conference on Electricity Distribution, presenting using light electric vehicles for V2G services in the Arctic. 
+        - Poster presentation at NORA Annual Conference 2023, presenting integration and influence of artificial intelligence in the design industry.
+        - Demo presentation at AI+ conference, presenting the application of multi-agent systems and reinforcement learning methods in interactive music generation.
+        - Presentation at the University of Oslo Brain Talk webinar, presenting the application of multi-agent systems for interactive music generation.
+    - year: 2022
       items: 
-        - Max Planck Medal
+        - Presentation at UiT, the Arctic University of Norway, Bodø, presenting the application of multi-agent systems and reinforcement learning methods in computational creativity and music generation. 
+    - year: 2021
+      items:
+        - Presentation at UiT, the Arctic University of Norway, Narvik, Ph.D conference, presenting the application of deep learning methods in music generation
+        - Demo presentation at AI+ Conference, presenting the application of deep learning methods in symbolic music generation.
 
 - title: Academic Interests
-  type: nested_list
+  type: list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - Music Generation Tasks
+    - Generative AI
+    - Reinforcement Learning (RL)
+    - Multi-Agent Systems (MAS)
+    - Deep Learning (DL)
+    - Data Science and Analysis
+    - Human Computer Interaction
+
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Artificial Intelligence.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
 - title: Other Interests
   type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+  contents:  
+    - <u>Outdoors:</u> Surfing, Snowboarding, Skating, Climbing, Hiking, Running, (Mountain) Biking.
+    - <u>Indoors:</u> Reading, Jamming (Music), Making Noise (Music), Cooking, Baking, Beer, Plants, Movie.
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
