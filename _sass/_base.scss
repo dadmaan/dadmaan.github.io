@@ -305,7 +305,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
 
     a {
       i::before {
@@ -350,8 +350,8 @@ footer.fixed-bottom {
 
 footer.sticky-bottom {
   border-top: 1px solid var(--global-divider-color);
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   font-size: 0.9rem;
 }
 
@@ -361,7 +361,7 @@ footer.sticky-bottom {
   margin-bottom: 40px;
 
   .card {
-    background-color: var(--global-card-bg-color);
+    background-color: var(--cv-card-bg-color);
     border: 1px solid var(--global-divider-color);
 
     .list-group-item {
@@ -369,7 +369,7 @@ footer.sticky-bottom {
       border-color: var(--global-divider-color);
 
       .badge {
-        color: var(--global-card-bg-color) !important;
+        color: var(--global-text-color) !important;
         background-color: var(--global-theme-color) !important;
       }
     }
@@ -568,8 +568,8 @@ footer.sticky-bottom {
   }
 
   h2.bibliography {
-    color: var(--global-divider-color);
-    border-top: 1px solid var(--global-divider-color);
+    color: var(--publication-divider-color);
+    border-top: 1px solid var(--publication-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
     margin-bottom: -2rem;

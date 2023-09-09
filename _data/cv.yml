@@ -8,7 +8,6 @@
     - name: Languages
       value: English, Norwegian, Farsi
 
-# EDUCATION
 - title: Education
   type: time_table
   contents:
@@ -16,8 +15,8 @@
       institution: UiT The Arctic University of Norway, Narvik, Norway
       year: July 2021 - Present
       description:
-        - My PhD research explores the intersection of multi-agent systems and reinforcement learning in the context of symbolic music generation. The primary goal is to design a collaborative learning environment facilitated through a user-centric interface. This project strives to enable artificial intelligence systems to understand better and adapt to individual user preferences. It's an experience towards harmonizing technology with human insight where AI can create personalized and interesting musical compositions.
-            
+        - My PhD research explores the intersection of multi-agent systems and reinforcement learning in the context of symbolic music generation. The primary goal is to design a collaborative learning environment facilitated through a user-centric interface. This project strives to enable artificial intelligence systems to understand better and adapt to individual user preferences. It's an experience towards harmonizing technology with human insight where AI can create personalized and interesting musical compositions.  
+
     - title: M.S Computer Science 
       institution: UiT The Arctic University of Norway, Narvik, Norway
       year: Aug 2018 - June 2020
@@ -39,7 +38,6 @@
       contents:
         - During my bachelor thesis project, I focused on improving the user interactivity and convenience of e-commerce platforms. I delved deep into understanding and applying UID and UXD principles to cater to a wide range of users. My approach involved utilizing AppML to streamline the management of HTML data, effectively reducing code complexity by facilitating the transfer of data from .JSON files. Additionally, I employed Sass and Bootstrap API to enhance template efficiency. This project allowed me to integrate various tools and strategies, working towards a more user-friendly and efficient e-commerce platform.
 
-# EXPERIENCES
 - title: Experience
   type: time_table
   contents:
