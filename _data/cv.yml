@@ -33,7 +33,6 @@
       description:
         - During my undergraduate studies in software engineering, I had the opportunity to explore a broad array of concepts and methodologies central to the field. I became acquainted with artificial intelligence and system logics, delving into different software methodologies that are pivotal in the industry today. 
         - My coursework involved practical experience in programming languages like C# and C++, as well as working with Linux systems, which gave me a solid foundation in the technical aspects of software development. The program also included syudies such as state machines, automata, databases, interface design, statistical analysis, and mathematical engineering.
-        - This educational journey provided me with a solid grounding, preparing me for a diverse range of opportunities in the software engineering.
     - title: Thesis Summary.
       contents:
         - During my bachelor thesis project, I focused on improving the user interactivity and convenience of e-commerce platforms. I delved deep into understanding and applying UID and UXD principles to cater to a wide range of users. My approach involved utilizing AppML to streamline the management of HTML data, effectively reducing code complexity by facilitating the transfer of data from .JSON files. Additionally, I employed Sass and Bootstrap API to enhance template efficiency. This project allowed me to integrate various tools and strategies, working towards a more user-friendly and efficient e-commerce platform.
@@ -105,8 +104,28 @@
         - Presentation at UiT, the Arctic University of Norway, Bodø, presenting the application of multi-agent systems and reinforcement learning methods in computational creativity and music generation. 
     - year: 2021
       items:
-        - Presentation at UiT, the Arctic University of Norway, Narvik, Ph.D conference, presenting the application of deep learning methods in music generation
+        - Oral presentation at UiT, the Arctic University of Norway, Narvik, Ph.D conference, presenting the application of deep learning methods in music generation.
         - Demo presentation at AI+ Conference, presenting the application of deep learning methods in symbolic music generation.
+
+# - title: Featured Media
+#   type: time_table
+#     contents:
+#       - year: 2018
+#         items: 
+#         - <a href="https://forskning.no/kunstig-intelligens-musikk-partner/har-utviklet-kunstig-intelligens-som-lager-jazzmusikk/1748607"> Forskning.no - Har utviklet kunstig intelligens som lager jazzmusikk </a> 
+#         - <a href="https://uit.no/nyheter/artikkel?p_document_id=689558">UiT Highlights - Utvikler kunstig intelligens som komponerer jazzmusikk</a>
+#         - <a href="https://youtu.be/cieU4Z4jmvw">UiT Research Week - Deep Jazz Composer</a>
+#         - <a href="https://www.fremover.no/narvik-studenten-utvikler-kunstig-intelligens-som-komponerer-musikk-unikt-pa-mange-vis/s/5-17-728588?ns_campaign=editorial.article&amp%3Bns_mchannel=editorial.facebook&amp%3Bns_source=editorial.facebook&amp%3Bns_linkname=editorial.share.article&amp%3Bns_fee=0"> Fremover.no - Narvik-studenten utvikler kunstig intelligens som komponerer musikk, Unikt på mange vis</a>
+#         - title: Brodcast of some of the generated Jazz composition in <a href="https://radio.nrk.no/direkte/alltid_nyheter">NRK Nyheter</a> and <a href="https://radio.nrk.no/direkte/p3">NRK P3</a> radio channels
+
+# - title: Exhibitions
+#   type: time_table
+#     contents:
+#     - year: 2022
+#       items: 
+#         - Art x AI - UiT The Arctic University of Norway, Narvik, Norway
+#         - If I were Standing In Your Shoes - Tromsø kunstforening, Tromsø, Norway
+#         - This is a protest gesture to showcase Norway's violation of basic human rights - Storgata, Tromsø, Norway
 
 - title: Academic Interests
   type: list
@@ -119,39 +138,11 @@
     - Data Science and Analysis
     - Human Computer Interaction
 
-
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Artificial Intelligence.
-#       items: 
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
-
 - title: Other Interests
   type: list
   contents:  
-    - <u>Outdoors:</u> Surfing, Snowboarding, Skating, Climbing, Hiking, Running, (Mountain) Biking.
-    - <u>Indoors:</u> Reading, Jamming (Music), Making Noise (Music), Cooking, Baking, Beer, Plants, Movie.
-
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
-#     - year: 2029
-#       items: 
-#         - Max Planck Medal
+    - Mountains and Ocean
+    - Jamming and Making Noise		
+    - Books
+    - Cooking
+    - Plants							

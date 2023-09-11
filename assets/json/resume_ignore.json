@@ -1,0 +1,204 @@
+{
+  "basics": {
+    "name": "Shayan Dadman",
+    "label": "PhD Candidate",
+    "email": "",
+    "phone": "",
+    "summary": "A multi-lingual PhD Candidate exploring the intersection of multi-agent systems and reinforcement learning in the context of symbolic music generation.",
+    "location": {
+      "city": "Narvik",
+      "countryCode": "NO",
+      "region": "Nordland"
+    },
+    "profiles": []
+  },
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Norwegian",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Farsi",
+      "fluency": "Fluent"
+    }
+  ],
+  "education": [
+    {
+      "institution": "UiT The Arctic University of Norway, Narvik, Norway",
+      "area": "Multi-agent systems and reinforcement learning in symbolic music generation",
+      "studyType": "PhD",
+      "startDate": "2021-07-01",
+      "endDate": "Present",
+      "score": "",
+      "courses": [
+        "User-centric interface design",
+        "Collaborative learning environment design"
+      ]
+    },
+    {
+      "institution": "UiT The Arctic University of Norway, Narvik, Norway",
+      "area": "Computer Science",
+      "studyType": "M.S",
+      "startDate": "2018-08-01",
+      "endDate": "2020-06-30",
+      "score": "",
+      "courses": [
+        "Artificial intelligence",
+        "Geometric modeling",
+        "Virtual reality",
+        "Computer graphics",
+        "C++, Python, and GPU programming"
+      ]
+    },
+    {
+      "institution": "Azad University of Tehran North, Tehran, Iran",
+      "area": "Software Engineering",
+      "studyType": "B.S",
+      "startDate": "2012-10-01",
+      "endDate": "2017-05-31",
+      "score": "",
+      "courses": [
+        "Artificial intelligence",
+        "System logics",
+        "Software methodologies",
+        "C#, C++, Linux systems",
+        "State machines",
+        "Automata",
+        "Databases",
+        "Interface design",
+        "Statistical analysis",
+        "Mathematical engineering"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "UiT The Arctic University of Norway, Narvik",
+      "position": "Research Assistance and University Lecturer",
+      "startDate": "2020-07-01",
+      "endDate": "2021-07-31",
+      "summary": "Contributed to AI projects and facilitated workshops on machine learning and deep learning techniques. Organized educational events and guided master's students in their dissertations."
+    },
+    {
+      "company": "Self-Employed",
+      "position": "Freelance Web designer and Developer",
+      "startDate": "2016-03-01",
+      "endDate": "2019-05-31",
+      "summary": "Collaborated with various clients on web development projects focusing on user-friendly websites and SEO integration."
+    },
+    {
+      "company": "Adaak Financial Institute",
+      "position": "IT Specialist",
+      "startDate": "2017-04-01",
+      "endDate": "2018-07-31",
+      "summary": "Maintained the company's local network and developed tailored network solutions."
+    },
+    {
+      "company": "Talash Argham Institute",
+      "position": "Network Consultant",
+      "startDate": "2016-12-01",
+      "endDate": "2017-03-31",
+      "summary": "Worked on enhancing network performance and security by developing solutions aligned with the company's needs."
+    },
+    {
+      "company": "IT Orbit",
+      "position": "Web Developer",
+      "startDate": "2016-06-01",
+      "endDate": "2016-12-31",
+      "summary": "Supported different web development projects and learned from experienced professionals."
+    },
+    {
+      "company": "Zed Trading Company",
+      "position": "Design Team and Social Marketing Department Member",
+      "startDate": "2015-10-01",
+      "endDate": "2016-12-31",
+      "summary": "Collaborated in enhancing the company's digital presence through various design projects and improved operational efficiencies."
+    }
+  ],
+  "awards": [],
+  "volunteer": [],
+  "publications": [
+    {
+      "name": "Oral presentation at PAAMS 2023",
+      "releaseDate": "2023-01-01",
+      "publisher": "Practical Application of Agent and Multi-Agents Systems",
+      "summary": "Presenting multi-agent reinforcement learning for symbolic music generation."
+    },
+    {
+      "name": "Poster presentation at CIRED 2023",
+      "releaseDate": "2023-01-01",
+      "publisher": "27th International Conference on Electricity Distribution",
+      "summary": "Presenting using light electric vehicles for V2G services in the Arctic."
+    },
+    {
+      "name": "Poster presentation at NORA Annual Conference 2023",
+      "releaseDate": "2023-01-01",
+      "publisher": "NORA",
+      "summary": "Presenting integration and influence of artificial intelligence in the design industry."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Music Generation Tasks",
+      "level": ""
+    },
+    {
+      "name": "Generative AI",
+      "level": ""
+    },
+    {
+      "name": "Reinforcement Learning (RL)",
+      "level": ""
+    },
+    {
+      "name": "Multi-Agent Systems (MAS)",
+      "level": ""
+    },
+    {
+      "name": "Deep Learning (DL)",
+      "level": ""
+    },
+    {
+      "name": "Data Science and Analysis",
+      "level": ""
+    },
+    {
+      "name": "Human Computer Interaction",
+      "level": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Outdoors activities",
+      "keywords": [
+        "Surfing",
+        "Snowboarding",
+        "Skating",
+        "Climbing",
+        "Hiking",
+        "Running",
+        "Mountain Biking"
+      ]
+    },
+    {
+      "name": "Indoors activities",
+      "keywords": [
+        "Reading",
+        "Jamming (Music)",
+        "Making Noise (Music)",
+        "Cooking",
+        "Baking",
+        "Beer",
+        "Plants",
+        "Movie"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [],
+  "certificates": []
+}

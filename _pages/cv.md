@@ -1,9 +1,10 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /cv_test/
 title: cv
 nav: false
 nav_order: 4
-cv_pdf: cv_dadman.pdf
-description: Curriculum Vitae
+cv_pdf: example_pdf.pdf
+toc:
+  sidebar: left
 ---
