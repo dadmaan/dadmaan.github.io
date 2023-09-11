@@ -21,13 +21,13 @@ social: true  # includes social icons at the bottom of the page
 
 Hello!
 
-I am a curious individual grounded in both the academic and professional realms of computer science and technology. Over the years, I have fostered an understanding of various programming languages, software methodologies, and system logic. My roles have varied, from guiding design teams and web development projects to applying AI in intelligent systems and exploring the intersection of music and art with artificial intelligence and human-computer interaction. 
+I'm at the intersection of technology and creativity, immersing myself in both computer science's academic and professional spheres.
 
-Building on this foundation, I have embarked on exciting collaborations with artists to delve deeper into the application of generative AI. Leveraging state-of-the-art tools like StableDiffusion models and the StyleGAN family, we created various concepts by blending technology and art. These efforts have been playgrounds for experimentation and creation to disclose the transformative potential of AI in augmenting artistic expression.
+Currently, I am on a PhD journey, focusing on symbolic music generation, using multi-agent systems and reinforcement learning. My goal is simple yet profound: to develop an AI system that resonates with individual musical tastes, forming a collaborative and interactive connection with users.
 
-Now, in a natural progression of my journey, I am pursuing my PhD, where I have the opportunity to delve into the world of symbolic music generation through the lens of multi-agent systems and reinforcement learning. This phase is a humble yet spirited exploration into technology and creativity through generative AI. The main objective is to develop a collaborative learning method that users can incorporate into systems learning through an interactive interface. The idea is to guide the system learning toward user preferences. It's an effort to understand how AI can better resonate with individual musical tastes and respond in a meaningful way.
+Whether it's delving into generative AI, engaging in music generation tasks, or discussing human-computer interaction, I'm open to collaborations and conversations that stimulate learning and innovation.
 
-I am open to exploring new opportunities, collaborations, and discussions related to the generative AI, music generation tasks, and human computer interaction. If you are a interested in working with me or learning more about my research, feel free to reach out. I am  also open to supervising passionate and dedicated students.
+Feel free to reach out if you're curious to learn more or interested in working together.
 
 For General Inquiries: `dadman.shayan@gmail.com`
 
