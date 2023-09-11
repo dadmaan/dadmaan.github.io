@@ -159,7 +159,7 @@ toc:
     </li>
 </ul>
 
-## Exhibitations
+## Exhibitions
 {:data-toc-text="Exhibitions"}
 
 <ul>
