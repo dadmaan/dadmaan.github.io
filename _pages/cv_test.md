@@ -166,15 +166,15 @@ toc:
     <li>
     <span class="badge-toc">2022</span>
         <ul>
-            <li>Art x AI - UiT The Arctic University of Norway, Narvik, Norway</li>
-            <li>If I were Standing In Your Shoes - Tromsø kunstforening, Tromsø, Norway</li>
+            <li><strong>Art x AI, in collaboration with Lin, Pei-Han</strong> - UiT The Arctic University of Norway, Narvik, Norway</li>
+            <li><strong>If I were Standing In Your Shoes, in collaboration with Lin, Pei-Han</strong> - Tromsø kunstforening, Tromsø, Norway</li>
         </ul>
         <p></p>
     </li>
     <li>
     <span class="badge-toc">2021</span>
         <ul>
-            <li>This is a protest gesture to showcase Norway's violation of basic human rights - Storgata, Tromsø, Norway</li>
+            <li><strong>This is a protest gesture to showcase Norway's violation of basic human rights, in collaboration with Lin, Pei-Han</strong> - Storgata, Tromsø, Norway</li>
         </ul>
         <p></p>
     </li>

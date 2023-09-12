@@ -1,3 +1,31 @@
+// CUSTOMIZATIONS
+
+.z-depth-1 {
+  -webkit-box-shadow: 0 0 0 0 rgba(0,0,0,0) !important;
+  box-shadow: 0 0 0 0 rgba(0,0,0,0) !important;
+}
+
+.rounded {
+  border-radius: 0.25rem !important;
+  border-image-slice: 1;
+  border-image-source: initial;
+}
+
+.text-lowercase {
+  text-transform: none !important; /* Override the lowercase transformation */
+}
+
+.post-description {
+  margin-bottom: 2rem !important;
+  font-size: 1.25rem !important;
+}
+
+// Uncomment to remove shadows on cards
+// .card {
+//   -webkit-box-shadow: 0 0 0 0 rgba(0,0,0,0) !important;
+//   box-shadow: 0 0 0 0 rgba(0,0,0,0) !important;
+// }
+
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
@@ -85,7 +113,6 @@ blockquote {
 
 .card {
   background-color: var(--global-card-bg-color);
-
   img {
     width: 100%;
   }
@@ -536,8 +563,8 @@ footer.sticky-bottom {
   }
 
   h2.category {
-    color: var(--global-divider-color);
-    border-bottom: 1px solid var(--global-divider-color);
+    color: var(--publication-divider-color);
+    border-bottom: 1px solid var(--publication-divider-color);
     padding-top: 0.5rem;
     margin-top: 2rem;
     margin-bottom: 1rem;
@@ -1034,3 +1061,5 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
+
