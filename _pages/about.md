@@ -29,6 +29,6 @@ Whether it's delving into generative AI, engaging in music generation tasks, or 
 
 Feel free to reach out if you're curious to learn more or interested in working together.
 
-For General Inquiries: `dadman.shayan@gmail.com`
+For general inquiries --> `dadman.shayan@gmail.com`
 
-For Academic Collaborations and Opportunities: `shayan.dadman@uit.no`
+For academic collaborations and opportunities --> `shayan.dadman@uit.no`
