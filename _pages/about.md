@@ -6,7 +6,7 @@ subtitle: <a href='https://uit.no/ansatte/shayan.dadman'>PhD Candidate</a>, UiT 
 
 profile:
   align: right
-  image: shayan_dadman.jpg
+  image: shayan_dadman_profile.png
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>UiT The Arctic University of Norway,</p>
