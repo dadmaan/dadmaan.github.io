@@ -31,7 +31,7 @@ $grey-900:            #212529;
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
-// customized color schemes for light theme
+// cskin tone color schemes for light theme
 $cream-color:               #f2d399 !default;
 $warm-cream-color:          #f8ebcd !default;
 $brown-color:               #9b6c43 !default;
@@ -40,6 +40,13 @@ $brick-red-color:           #a62d12 !default;
 $muted-olive-color:         #b8b68f !default;
 $muted-olive-color-light:   lighten($muted-olive-color, 2%);
 $warm-beige-color:          #decca6 !default;
+
+// contrastive color schemes for light theme
+$primary-blue-color:       #0000C3 !default;
+$accent-orange-color:      #FF6900 !default;
+$pure-white-color:         #ffffff !default;
+$light-gray-color:         #e8e8e8 !default;
+$deep-charcoal-color:      #1c1c1d !default;
 
 
 $bright-green-color:        #0CF25D !default;
